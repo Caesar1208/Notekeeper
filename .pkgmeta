@@ -1,0 +1,4 @@
+package-as: Notekeeper
+
+ignore:
+  - README.md

@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Notekeeper
+## Notes: Notes and tasks that pop up when you need them: entering a zone or city, reaching a level, opening a vendor, and more. /nk
+## Version: @project-version@
+## IconTexture: Interface\Icons\INV_Misc_Note_01
+## SavedVariables: NotekeeperDB
+## AddonCompartmentFunc: Notekeeper_Toggle
+## Category: Quests
+
+Core.lua
+Conditions.lua
+Popup.lua
+Tracker.lua
+UI.lua
+Bindings.xml

@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="NOTEKEEPER_TOGGLE" header="NOTEKEEPER" category="ADDONS">
+		Notekeeper_Toggle()
+	</Binding>
+	<Binding name="NOTEKEEPER_NEW" category="ADDONS">
+		Notekeeper_New()
+	</Binding>
+</Bindings>
